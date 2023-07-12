@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/introducePage/static/css/main.5bc73f87.css",
+    "main.js": "/introducePage/static/js/main.1c50f6f8.js",
+    "static/media/profile.png": "/introducePage/static/media/profile.c997797eb2a33675e726.png",
+    "static/media/nodejs.png": "/introducePage/static/media/nodejs.fc3bd1ec69d7a50e685a.png",
+    "static/media/JS.png": "/introducePage/static/media/JS.041c57c4e55de5092fe3.png",
+    "static/media/python.png": "/introducePage/static/media/python.d11b4d1f51893601bc2c.png",
+    "static/media/notion.png": "/introducePage/static/media/notion.7ac11356cb278dcfca7b.png",
+    "static/media/react.png": "/introducePage/static/media/react.3b646df5f2947f8f61e4.png",
+    "static/media/github.svg": "/introducePage/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
+    "static/media/instagram.svg": "/introducePage/static/media/instagram.116ad97e1f8e0638fcb7d5aed6800697.svg",
+    "index.html": "/introducePage/index.html",
+    "main.5bc73f87.css.map": "/introducePage/static/css/main.5bc73f87.css.map",
+    "main.1c50f6f8.js.map": "/introducePage/static/js/main.1c50f6f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc73f87.css",
+    "static/js/main.1c50f6f8.js"
+  ]
+}
